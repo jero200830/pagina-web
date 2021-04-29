@@ -1,0 +1,133 @@
+body{
+background:yellow; 
+}
+.cuadrog{
+	position: absolute;
+	top: 23px;
+	left: 12px;
+	width: 97%;
+    height:110%;
+background: red;
+border: solid 5px black;
+padding 
+}
+
+.titulo{
+position: absolute;
+    top: 34px;
+	left: 2%;
+	width: 40%;
+    height:17%;
+    background: yellow;
+    font-size: 65px;
+    border: solid 2px black;
+
+}
+
+.parrafo{
+position: absolute;
+top: 24%;
+width: 40%;
+left: 2%;
+height: 34%;
+border: solid 3px black;
+background: green;
+}
+
+.foto1{
+position: absolute;
+top:380px;
+	    left:15px;
+	    width:203px;
+	    height:36%;
+	    background:white;
+	    border:solid 5px black;
+background:url(fotoactividad.png);
+background-size:cover;
+padding-left: 50px; 
+
+}
+
+.parrafo2{
+position: absolute;
+top: 60%;
+width: 19%;
+left: 23%;
+height: 36%;
+border: solid 2px black;
+background: green;
+z-index: 35px;
+}
+
+.cuadrom{
+position: absolute;
+	top:5%;
+	left: 53%;
+	width: 45%;
+    height:53%;
+background: orange;
+border: solid 5px black;
+}
+
+.parrafo3{
+position: absolute;
+top: 6%;
+width: 43%;
+left: 54%;
+border: solid 2px black;
+background: green;
+z-index: 35px;
+}
+
+.foto2{
+position: absolute;
+top:330px;
+	    left:54%;
+	    width:200px;
+	    height:200px;
+	    top: 25%;
+	    background:white;
+	    border:solid 5px black;
+background:url(fotodeactividad.png);
+background-size:cover;
+padding-left: 50px; 
+
+}
+.foto3{
+position: absolute;
+top:330px;
+	    left:76%;
+	    width:210px;
+	    height:200px;
+	    top: 25%;
+	    background:white;
+	    border:solid 5px black;
+background: url(fotico.png);
+background-size:cover;
+padding-left: 40px; 
+
+}
+.parrafo4{
+position: absolute;
+top: 60%;
+width: 23%;
+left: 53%;
+height: 36%;
+border: solid 2px black;
+background: green;
+}
+.foto4{
+position: absolute;
+top:380px;
+	    left:77%;
+	    width:201px;
+	    height:36%;
+	    background:white;
+	    border:solid 5px black;
+background: url(fototecno.png);
+	    background-size:cover;
+padding-left: 50px; 
+
+
+}
+
